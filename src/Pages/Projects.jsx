@@ -1,6 +1,6 @@
-import projet1 from "../assets/ma.jpg"
- import projet2 from "../assets/hero.jpg"
- import projet3 from "../assets/cod.jpg"
+import projet1 from "../assets/photo.jpg"
+ import projet2 from "../assets/photo.jpg"
+ import projet3 from "../assets/photo.jpg"
 
 function Projects() {
 
@@ -9,13 +9,13 @@ function Projects() {
       title: "Mini Market",
       description: "Application avec React et Laravel",
       image: projet1,
-      link: "https://github.com/mariama-sadio/mini-market"
+      link: "https://github.com/faatimandiaye/mini-market"
     },
     {
       title: "Portfolio",
       description: "Mon site portfolio moderne avec React",
       image: projet2,
-      link: "https://github.com/mariama-sadio/mini-market-portfolio"
+      link: "https://github.com/faatimandiaye/mini-market-portfolio"
     },
     {
       title: "Gestion des tâches",

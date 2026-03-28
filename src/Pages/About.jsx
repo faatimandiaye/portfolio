@@ -1,4 +1,4 @@
-import photo from "../assets/fa.jpg"
+import photo from "../assets/photo.jpg"
 function About() {
   return (
     <section className="about">
